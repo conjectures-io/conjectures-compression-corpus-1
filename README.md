@@ -85,6 +85,11 @@ cannot drift from what was actually used.
 
 It is a record of what each project states about itself, not a vetted legal review.
 
+[`formats.json`](formats.json) maps each corpus filename to a format label, so the
+competition's benchmark analysis can group and normalize by file format instead of
+pooling raw bytes. Same reasoning as `SOURCES.md`: generated in the competition
+repository, copied here so this repo is self-contained.
+
 ## Regenerating
 
 You do not need to, and a rebuild will not match unless your pool is the one this was
