@@ -1,4 +1,4 @@
-# conjectures-benchmark-corpus-stage1
+# conjectures-compression-corpus-1
 
 The **public** scoring corpus for the miniz-oxide DEFLATE competition: 28 files,
 15,930,000 bytes, cut from a ~900 MB pool of real-world data.
